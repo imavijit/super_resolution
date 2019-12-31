@@ -8,5 +8,5 @@ Keras is being used for making this super-resolution convolution neural network(
 
 
 * **Original Paper:** "Image-Super-Resolution Using Deep Convolutional Networks" by Chao Dong et al. 2014.
-                [link](https://arxiv.org/abs/1501.00092) to the paper.<br>
+                [link](https://arxiv.org/pdf/1501.00092.pdf) to the paper.<br>
   The pretrained weights are taken from [Here](https://github.com/MarkPrecursor)
